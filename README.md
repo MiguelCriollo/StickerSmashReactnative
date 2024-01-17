@@ -23,3 +23,8 @@ Ligera Cargas mas Rapida pero nada significativ
 <h3>¿Cómo se podrían aplicar las lecciones aprendidas en este proyecto a futuros proyectos de desarrollo y refactoring?</h3>
 
 A saber como juntar varios componentes en uno solo si se dan las condiciones
+
+Antes: 
+![img_1.png](img_1.png)
+Despues: 
+![img.png](img.png)
